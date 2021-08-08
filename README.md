@@ -2,9 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
-# How does it work:
+# Get started:
 
-To access the app from the login page:
+run `npm install` 
+
+# How does the app work:
+
+To access the app from the login page please use one of the following combination:
 
 ```go
 { username: 'User 1', user_group: administrator },

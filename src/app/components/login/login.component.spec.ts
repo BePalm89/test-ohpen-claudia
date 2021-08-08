@@ -8,8 +8,6 @@ import { Router } from '@angular/router';
 const routerSpy = jasmine.createSpyObj('Router', ['navigate']);
 const authServiceSpy = jasmine.createSpyObj('AuthService', ['login']);
 
-const testUserData = { username: "User 1", role: 'administrator'};
-const loginErrorMsg = 'Invalid Login';
 const validUser = {
     username: 'User 1',
     role: 'administrator'
